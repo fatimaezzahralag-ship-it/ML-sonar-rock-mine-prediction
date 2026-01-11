@@ -1,6 +1,7 @@
 # Sonar Rock vs Mine Prediction
 
 Ce projet est une application de **Machine Learning** capable de prédire si un objet détecté par un sonar est une **Roche (Rock)** ou une **Mine (Mine)**.
+> **🔴 Démo en ligne :** [Cliquez ici pour tester l'application](https://rock-or-mine.streamlit.app/)
 
 L'application utilise un modèle de **Régression Logistique** entraîné sur le jeu de données *Sonar* (208 échantillons, 60 fréquences). Elle est déployée via **Streamlit** pour offrir une interface utilisateur interactive.
 
